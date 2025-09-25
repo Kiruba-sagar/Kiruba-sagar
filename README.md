@@ -3,7 +3,7 @@
 🚀 Software Engineer | FullStack Developer | Cloud Enthusiast  
 
 📫 Connect with me:  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:kirubasagarsm@gmail.com) )  
+[LinkedIn](https://www.linkedin.com/in/s-sagar-1b49751a0/) | [Email](mailto:kirubasagarsm@gmail.com) )  
 
 ---
 
