@@ -25,7 +25,7 @@
 ---
 
 ## 📚 Education   
-🎓 B.sc – Thanthai hans Roever Colleges ( Perambalur ) (2019–2022)  
+🎓 B.sc(computer science) – Thanthai hans Roever Colleges ( Perambalur ) (2019–2022)  
 
 ---
 
