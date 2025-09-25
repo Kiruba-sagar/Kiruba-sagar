@@ -41,9 +41,9 @@
 ---
 
 ## 🏆 Achievements  
-- 🎖 HackerRank Python Certified  
-- 🏅 District Level Kabaddi Medal  
-- ⭐ GitHub Pull Shark  
+- 🎖 HackerRank   
+- 🏅 District cricket price 
+- ⭐ GitHub Pull Shark  , YOLO , Quickdraw
 
 ---
 
