@@ -47,11 +47,4 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Kiruba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiruba-sagar&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiruba-sagar&layout=compact&theme=radical)
-
----
-
 ✨ _Thanks for visiting my profile!_  
