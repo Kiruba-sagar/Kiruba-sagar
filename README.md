@@ -3,7 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&color=FFD700&center=true&vCenter=true&lines=I'm+a+Full-Stack+Developer+%26+DevOps+Engineer;Always+Learning;Love+Building+Cool+Stuff" alt="Typing SVG">
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsKiruba-sagar&show_icons=true&theme=tokyonight" alt="Top Languages" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=itsVimalkumaR&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 
 🚀 Software Engineer | FullStack Developer | Cloud Enthusiast  
