@@ -1,8 +1,9 @@
 # Hi, I'm Kiruba 👋  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&color=FFD700&center=true&vCenter=true&lines=I'm+an+Automation+Engineer;Always+Learning;Love+Building+Cool+Stuff" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sriracha&color=FFD700&center=true&vCenter=true&lines=I'm+a+Full-Stack+Developer+%26+DevOps+Engineer;Always+Learning;Building+Scalable+Systems" alt="Typing SVG">
 </p>
+
 
 
 🚀 Software Engineer | FullStack Developer | Cloud Enthusiast  
